@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gamacol s.a.s inc</title>
     <script src="https://kit.fontawesome.com/95fcbf2b2f.js"crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="CSS/GAMACOL estilos.css">
+    <link rel="stylesheet" href="GAMACOL estilos.css">
 </head>
 
 
